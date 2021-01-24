@@ -1,0 +1,108 @@
+.content p{
+    padding: 10px;
+    font-family: Langar;
+}
+
+iframe{
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.content, .container{
+    position: relative;
+}
+
+.contact-form   {
+    display: table;
+    margin: 100px;
+    padding: 10px;
+
+}
+
+#shiv{
+    width: 600px;
+    height: 250px;
+    border: 3px dashed grey;
+    border-radius: 5px;
+    background-color: darkslategray;
+    margin-left: 150px;
+    padding: 10px;
+    display: none;
+}
+
+.Highlight{
+    width: 600px;
+    height: 270px;
+    border: 3px dashed grey;
+    border-radius: 5px;
+    margin-left: 150px;
+    padding: 10px;
+    background: darkslategrey;
+}
+
+.toBe{
+    width: 600px;
+    height: 270px;
+    border: 3px dashed grey;
+    border-radius: 5px;
+    margin-left: 150px;
+    padding: 20px;
+}
+
+#show, #hide{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+.fadetext{
+    width: 600px;
+    height: 150px;
+    border: 3px dashed grey;
+    border-radius: 5px;
+    margin-left: 150px;
+    padding: 20px;
+    display: none;
+    background:darkslategrey ;
+}
+
+#fade-in, #fade-out{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+#slide-up, #slide-down, #toggleslide {
+ 
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+
+.slidetext  {
+    width: 600px;
+    height: 150px;
+    border: 3px dashed grey;
+    border-radius: 5px;
+    margin-left: 150px;
+    padding: 20px;
+    background:darkslategrey ;
+
+}
+
+#animatebox{
+    width: 600px;
+    height: 500px;
+    border: 3px dashed grey;
+    border-radius: 5px;
+    margin-left: 150px;
+    padding: 20px;
+    background:darkslategrey ;
+}
+
+#grow, #move, #bigger, #manythings{
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
